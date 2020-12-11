@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCamera</string>
+    <string name="flip_camera">Voltear Camara</string>
+    <string name="enviarImagen">Enviar foto tomada a</string>
+</resources>
